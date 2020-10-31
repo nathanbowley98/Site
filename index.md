@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nathanbowley98/Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Welcome to My Portfolio Main page!
+I'm a 3rd year BSc student studying Psychology and Computer Science and this is my portfolio. See below for my major projects I have made.
 
 ```markdown
-Syntax highlighted code block
+### Major Projects
 
-# Header 1
-## Header 2
-### Header 3
+- [Program Generates **Covid19 Statistics and Graphs** for *ANY COUNTRY* the user specifies ](https://github.com/nathanbowley98/NESC3505_Portfolio1)
+- [Lebanese to English Arabic Memorization Game](https://github.com/nathanbowley98/lebaneseEnglishGame)
+- [Arabic to Romanized Text App](https://github.com/nathanbowley98/lebanese_app)
+- [Mock Exam Generator](https://github.com/nathanbowley98/MockExamGenerator)
+- [Screen Pixel Color Detector Program](https://github.com/nathanbowley98/ScreenPixel)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nathanbowley98/Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
