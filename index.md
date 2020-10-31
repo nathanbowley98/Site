@@ -1,6 +1,9 @@
 ## Welcome to My Portfolio Main page!
 I'm a 3rd year BSc student studying Psychology and Computer Science and this is my portfolio. See below for my major representative projects I have created.
 
+Questions? Email me at:
+[nathanbowley98@live.com](mailto:nathanbowley98@live.com)
+
 ## Major Projects
 
 - [Program Generates **Covid19 Statistics and Graphs** for *ANY COUNTRY* the user specifies ](https://github.com/nathanbowley98/NESC3505_Portfolio1)
