@@ -19,8 +19,10 @@ Questions? Email me at:
 ## Other Projects
 - [Lebanese to English Arabic Memorization Game](https://github.com/nathanbowley98/lebaneseEnglishGame)
 - [Arabic to Romanized Text App](https://github.com/nathanbowley98/lebanese_app)
+  [Here is an example of this program](https://i.imgur.com/jY7ONzy.png)
 - [Mock Exam Generator](https://github.com/nathanbowley98/MockExamGenerator)
 - [Screen Pixel Color Detector Program](https://github.com/nathanbowley98/ScreenPixel)
+  [Here is an example of this program](https://imgur.com/tDZTnOI)
 
 
 # Knowledge In:
