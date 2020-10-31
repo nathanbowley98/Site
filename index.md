@@ -15,7 +15,8 @@ Questions? Email me at:
     
    [Sample of covid19 statistics and figures for countries](https://imgur.com/a/WE2ZHuq) generated almost instantly in program. 
     Here is an example of the part of the [source code](codeSnipit.md) that made this possible.
-    [Original Data source](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
+    
+   [Original Data source](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
      
 ## Other Projects
 - [Lebanese to English Arabic Memorization Game](https://github.com/nathanbowley98/lebaneseEnglishGame)
