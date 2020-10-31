@@ -1,5 +1,5 @@
 ## Welcome to My Portfolio Main page!
-I'm a 3rd year BSc student studying Psychology and Computer Science and this is my portfolio. See below for my major projects I have made.
+I'm a 3rd year BSc student studying Psychology and Computer Science and this is my portfolio. See below for my major representative projects I have created.
 
 ## Major Projects
 
@@ -9,6 +9,14 @@ I'm a 3rd year BSc student studying Psychology and Computer Science and this is 
 - [Mock Exam Generator](https://github.com/nathanbowley98/MockExamGenerator)
 - [Screen Pixel Color Detector Program](https://github.com/nathanbowley98/ScreenPixel)
 
-## Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nathanbowley98/Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Knowledge In:
+
+- Java (Current TA for CSCI1110, grader for CSCI1110, knowledgable in object orientated programming design, data structures, and programming complexities)
+- Python 3 (included Numpy, Pandas, matplotlib and other data science research tools)
+- some matlab
+- Willing to learn new programming language if needed.
+
+
+
+My site uses the layout and styles from the Jekyll theme I selected in my [repository settings](https://github.com/nathanbowley98/Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
