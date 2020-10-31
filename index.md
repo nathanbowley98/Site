@@ -16,7 +16,7 @@ Questions? Email me at:
     Here is an example of the part of the [source code](codeSnipit.md) that made this possible.
     [Original Data source](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
      
-    
+## Other Projects
 - [Lebanese to English Arabic Memorization Game](https://github.com/nathanbowley98/lebaneseEnglishGame)
 - [Arabic to Romanized Text App](https://github.com/nathanbowley98/lebanese_app)
 - [Mock Exam Generator](https://github.com/nathanbowley98/MockExamGenerator)
