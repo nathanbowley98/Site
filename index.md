@@ -1,16 +1,20 @@
 ## Major Projects
+<html>
+<head>
 <style>
-  table, th, td {
+table, th, td, {
   border: 1px solid black;
   border-collapse: collapse;
-  }
-  th, td, tr {
+}
+th, td, tr{
   padding: 5px;
-  }
-  th, tr {
+}
+th, tr{
   text-align: center;
-  }
+}
 </style>
+</head>
+<body>
   
 
 <table style="widthL100%">
