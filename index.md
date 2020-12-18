@@ -1,9 +1,3 @@
-## Welcome to My Portfolio Main page!
-I'm a 3rd year BSc student studying Psychology and Computer Science and this is my portfolio. See below for my major representative projects I have created.
-
-Questions? Email me at:
-[nathanbowley98@live.com](mailto:nathanbowley98@live.com)
-
 ## Major Projects
 |   <video width="320" height="240" controls>
   <source type="video/mp4" src="https://nathanbowley98.github.io/Site/brain (1).mp4">
