@@ -7,9 +7,9 @@ Questions? Email me at:
 ## Major Projects
 
 <video width="320" height="240" controls>
-  <source src="https://nathanbowley98.github.io/Site/brain (1).mp4" type="video/mp4">
-Your browser does not support the video tag.
+  <source type="video/mp4" src="https://nathanbowley98.github.io/Site/brain (1).mp4">
 </video>
+
 <a href="https://nathanbowley98.github.io/Site/Portfolio.html">Click here to see how I turned DICOM files from Magnetic Resonance data of a human brain into the mp4 video you see to the side!</a>
 
 - [Program Generates Covid19 Statistics and Graphs for *ANY COUNTRY* the user specifies ](https://github.com/nathanbowley98/NESC3505_Portfolio1)
