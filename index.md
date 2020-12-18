@@ -6,6 +6,8 @@ Questions? Email me at:
 
 ## Major Projects
 
+<a href="https://nathanbowley98.github.io/Site/Portfolio.html">Check out this example!</a>
+
 - [Program Generates Covid19 Statistics and Graphs for *ANY COUNTRY* the user specifies ](https://github.com/nathanbowley98/NESC3505_Portfolio1)
 
 *disclaimer: sadly north korea and a few other countries don't seem to exist online let alone their covid19 data.*
