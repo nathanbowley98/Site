@@ -1,4 +1,6 @@
 ## Major Projects
+|  |  |
+|--|--|
 | <video width="320" height="240" controls>
   <source type="video/mp4" src="https://nathanbowley98.github.io/Site/brain (1).mp4">
   Your browser doesn't support the video type.
