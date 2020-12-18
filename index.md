@@ -1,4 +1,16 @@
 ## Major Projects
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td, tr {
+  padding: 5px;
+}
+th, tr {
+  text-align: center;
+}
+
 <table style="widthL100%">
   <tr>
     <th>Brain Video</th>
