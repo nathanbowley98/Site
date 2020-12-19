@@ -41,9 +41,17 @@ th, tr{
         This is an example of processing global suicide data from multiple csv's processing it down to useful DataFrame!</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img width="320" height="240" src="https://nathanbowley98.github.io/Site/a (4).png" alt="Box Plot of Happy Sad Group vs difference">
+    </td>
+    <td>
+      <a href="https://nathanbowley98.github.io/Site/Portfolio_3.html">
+        This is an example processing participant data, NumPy statistical tests, and usage of seaborn to plot data</a>
+    </td>
+  </tr>
   </table>
   
-Portfolio_2.html
 - [Program Generates Covid19 Statistics and Graphs for *ANY COUNTRY* the user specifies ](https://github.com/nathanbowley98/NESC3505_Portfolio1)
 
 *disclaimer: sadly north korea and a few other countries don't seem to exist online let alone their covid19 data.*
