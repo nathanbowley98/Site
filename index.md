@@ -73,18 +73,6 @@ th, tr{
     Here is an example of the part of the [source code](codeSnipit.md) that made this possible.
     
    [Original Data source](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
-     
-## Other Projects
-- [Lebanese to English Arabic Memorization Game](https://github.com/nathanbowley98/lebaneseEnglishGame)
-- [Arabic to Romanized Text App](https://github.com/nathanbowley98/lebanese_app)
-  
-    [Here is an example of this program](https://i.imgur.com/jY7ONzy.png)
-    
-- [Mock Exam Generator](https://github.com/nathanbowley98/MockExamGenerator)
-- [Screen Pixel Color Detector Program](https://github.com/nathanbowley98/ScreenPixel)
-  
-    [Here is an example of this program](https://imgur.com/tDZTnOI)
-
 
 # Knowledge In:
 
@@ -95,3 +83,14 @@ th, tr{
 
 
 My site uses the layout and styles from the Jekyll theme I selected in my [repository settings](https://github.com/nathanbowley98/Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+## Other Projects that I'm allowed to publically release at this time:
+- [Lebanese to English Arabic Memorization Game](https://github.com/nathanbowley98/lebaneseEnglishGame)
+- [Arabic to Romanized Text App](https://github.com/nathanbowley98/lebanese_app)
+  
+    [Here is an example of this program](https://i.imgur.com/jY7ONzy.png)
+    
+- [Mock Exam Generator](https://github.com/nathanbowley98/MockExamGenerator)
+- [Screen Pixel Color Detector Program](https://github.com/nathanbowley98/ScreenPixel)
+  
+    [Here is an example of this program](https://imgur.com/tDZTnOI)
