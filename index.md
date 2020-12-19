@@ -70,6 +70,16 @@ th, tr{
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img width="320" height="240" src="https://nathanbowley98.github.io/Site/download.png" alt="Processing data from youtube analytics and error handling">
+    </td>
+    <td>
+      <a href="https://nathanbowley98.github.io/Site/Portfolio_6.html">
+        This is project I made to teach students new to programming how to handle errors using try, and except in python 3.
+      </a>
+    </td>
+  </tr>
   </table>
   
 # Knowledge In:
