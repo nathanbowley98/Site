@@ -86,15 +86,14 @@ th, tr{
         This is small sample of my contribution to my group project 2 in my neural datascience class, it demonstrates advanced understanding of nested list comprehensions when dealing with file structure and processing fif files to sort and structure the contents into a evoked dictionary for use in the MNE module in EEG data.
       </a>
     </td>
+  </tr>
 </table>
-  
-# Knowledge In:
 
+# Knowledge In:
 - Java (Current TA for CSCI1110, grader for CSCI1110, knowledgable in object orientated programming design, data structures, and programming complexities)
 - Python 3 (included Numpy, Pandas, matplotlib and other data science research tools)
 - some matlab
 - Willing to learn new programming language if needed.
-
 
 ## Other Projects that I'm allowed to publically release at this time:
 - [Lebanese to English Arabic Memorization Game](https://github.com/nathanbowley98/lebaneseEnglishGame)
