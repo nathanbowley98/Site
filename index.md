@@ -88,9 +88,11 @@ My site uses the layout and styles from the Jekyll theme I selected in my [repos
 - [Lebanese to English Arabic Memorization Game](https://github.com/nathanbowley98/lebaneseEnglishGame)
 - [Arabic to Romanized Text App](https://github.com/nathanbowley98/lebanese_app)
   
-    This is first version of the program: <img width="320" height="240" src="https://nathanbowley98.github.io/Site/jY7ONzy.png" alt="Arabic to Romanized Arabic Prototype">
+    This is first version of the program: 
+    <img width="320" height="240" src="https://nathanbowley98.github.io/Site/jY7ONzy.png" alt="Arabic to Romanized Arabic Prototype">
     
 - [Mock Exam Generator](https://github.com/nathanbowley98/MockExamGenerator)
 - [Screen Pixel Color Detector Program](https://github.com/nathanbowley98/ScreenPixel)
   
-    Here is an example of this program: <img width="320" height="240" src="https://nathanbowley98.github.io/Site/tDZTnOI.gif" alt="Color Ripper">
+    Here is an example of this program: 
+    <img width="320" height="240" src="https://nathanbowley98.github.io/Site/tDZTnOI.gif" alt="Color Ripper">
