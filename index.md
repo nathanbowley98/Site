@@ -93,4 +93,4 @@ My site uses the layout and styles from the Jekyll theme I selected in my [repos
 - [Mock Exam Generator](https://github.com/nathanbowley98/MockExamGenerator)
 - [Screen Pixel Color Detector Program](https://github.com/nathanbowley98/ScreenPixel)
   
-    [Here is an example of this program](https://imgur.com/tDZTnOI)
+    Here is an example of this program: <img width="320" height="240" src="https://nathanbowley98.github.io/Site/a (3).png" alt="Graph of Suicide Rates">
