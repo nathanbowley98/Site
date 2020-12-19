@@ -1,4 +1,5 @@
 ## Major Projects
+<!DOCTYPE html>
 <html>
 <head>
 <style>
