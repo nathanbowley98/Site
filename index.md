@@ -1,6 +1,4 @@
 ## Major Projects
-<!DOCTYPE html>
-<html>
 <head>
 <style>
 table, th, td, {
