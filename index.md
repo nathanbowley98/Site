@@ -86,7 +86,7 @@ th, tr{
         This is small sample of my contribution to my group project 2 in my neural datascience class, it demonstrates advanced understanding of nested list comprehensions when dealing with file structure and processing fif files to sort and structure the contents into a evoked dictionary for use in the MNE module in EEG data.
       </a>
     </td>
-  </table>
+</table>
   
 # Knowledge In:
 
