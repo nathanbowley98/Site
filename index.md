@@ -50,6 +50,16 @@ th, tr{
         This is an example processing participant data, NumPy statistical tests, and usage of seaborn to plot data</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img width="320" height="240" src="https://nathanbowley98.github.io/Site/a (5).png" alt="EEG Subplots">
+    </td>
+    <td>
+      <a href="https://nathanbowley98.github.io/Site/Portfolio_4.html">
+        This is an example processing csv time series data from the EEG-Alcohol related dataset from Kaggle
+      </a>
+    </td>
+  </tr>
   </table>
   
 - [Program Generates Covid19 Statistics and Graphs for *ANY COUNTRY* the user specifies ](https://github.com/nathanbowley98/NESC3505_Portfolio1)
