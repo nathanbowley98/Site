@@ -90,10 +90,18 @@ th, tr{
 </table>
 
 # Knowledge In:
-- Java (Current TA for CSCI1110, grader for CSCI1110, knowledgable in object orientated programming design, data structures, and programming complexities)
+- Java (knowledgable in object orientated programming design, data structures, and programming complexities):
+ * Fall 2020: TA and Grader for CSCI1110
+ * Winter 2020: TA and Grader for CSCI1110 and CSCI1105 (CSCI1105 only grading no lab hours this semester)
 - Python 3 (included Numpy, Pandas, matplotlib and other data science research tools)
 - some matlab
+- some experience in systems programming
+ * course rep for CSCI1120 in Winter of 2020
+- data science:
+ * current course rep for CSCI2203 in Winter of 2021
+- android development using android studio using java and xml files
 - Willing to learn new programming language if needed.
+ * applied to be course rep for CSCI2141 will update if earned.
 
 ## Other Projects that I'm allowed to publically release at this time:
 - [Lebanese to English Arabic Memorization Game](https://github.com/nathanbowley98/lebaneseEnglishGame)
@@ -107,3 +115,5 @@ th, tr{
   
     Here is an example of this program: 
     <img width="320" height="240" src="https://nathanbowley98.github.io/Site/tDZTnOI.gif" alt="Color Ripper">
+    
+- [Android App "Lebanese Verbs"] This app is being reviewed in the google play store currently so once its released I will update this page.
