@@ -32,6 +32,26 @@ th, tr{
         Click here to see how I turned DICOM files from Magnetic Resonance data of a human brain into the mp4 video you see to the side!</a>
     </td>
   </tr>
+  
+  
+  <tr>
+    <th>Covid Exposure Areas as of 5/5/2021 Note:may include bugs and missing data [see original data here for most accurate exposure areas](https://www.nshealth.ca/covid-exposures?title=&field_covid_exposure_zone_value=All)</th>
+    <th>How it was done</th>
+  </tr>
+  <tr>
+    <td>
+      <embed type="text/html" src="https://nathanbowley98.github.io/Site/novascotia_map.html" width="500" height="500">
+    </td>
+    <td>
+      <a href="https://github.com/nathanbowley98/covid_exposure_areas">
+        Click here to access the open source covid exposure areas project. At the time of posting this there are multiple bugs but it does manage to map the locations onto a map of nova scotia</a>
+    </td>
+  </tr>
+  
+  novascotia_map.html
+  
+  
+  
   <tr>
     <td>
       <img width="320" height="240" src="https://nathanbowley98.github.io/Site/a (3).png" alt="Graph of Suicide Rates">
