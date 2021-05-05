@@ -35,7 +35,8 @@ th, tr{
   <tr>
     <th>Covid Exposure Areas as of 5/5/2021</th>
     <td>
-      <a href="https://www.nshealth.ca/covid-exposures?title=&field_covid_exposure_zone_value=All"><td  width="20">Note:may include bugs and missing data See original data here for most accurate exposure areas!</td></a>
+      <a href="https://www.nshealth.ca/covid-exposures?title=&field_covid_exposure_zone_value=All">
+        *Note:may include bugs and missing data See original data here for most accurate exposure areas!*</a>
     </td>
   </tr>
   <tr>
