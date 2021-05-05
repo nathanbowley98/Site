@@ -36,7 +36,7 @@ th, tr{
     <th>Covid Exposure Areas as of 5/5/2021</th>
     <td>
       <a href="https://www.nshealth.ca/covid-exposures?title=&field_covid_exposure_zone_value=All"><td  width="20">Note:may include bugs and missing data See original data here for most accurate exposure areas!</td></a>
-      <embed type="text/html" src="https://nathanbowley98.github.io/Site/novascotia_map.html" width="500" height="500">
+      <embed type="text/html" src="https://nathanbowley98.github.io/Site/novascotia_map.html" width="400" height="400">
     </td>
     <td>
       <a href="https://github.com/nathanbowley98/covid_exposure_areas">
