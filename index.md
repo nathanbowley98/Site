@@ -33,11 +33,10 @@ th, tr{
     </td>
   </tr>
   <tr>
-    <th>Covid Exposure Areas as of 5/5/2021 Note:may include bugs and missing data [see original data here for most accurate exposure areas](https://www.nshealth.ca/covid-exposures?title=&field_covid_exposure_zone_value=All)
+    Covid Exposure Areas as of 5/5/2021 Note:may include bugs and missing data [see original data here for most accurate exposure areas](https://www.nshealth.ca/covid-exposures?title=&field_covid_exposure_zone_value=All)
     <td>
       <embed type="text/html" src="https://nathanbowley98.github.io/Site/novascotia_map.html" width="500" height="500">
     </td>
-    </th>
     <td>
       <a href="https://github.com/nathanbowley98/covid_exposure_areas">
         Click here to access the open source covid exposure areas project. At the time of posting this there are multiple bugs but it does manage to map the locations onto a map of nova scotia</a>
