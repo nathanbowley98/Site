@@ -32,8 +32,6 @@ th, tr{
         Click here to see how I turned DICOM files from Magnetic Resonance data of a human brain into the mp4 video you see to the side!</a>
     </td>
   </tr>
-  
-  
   <tr>
     <th>Covid Exposure Areas as of 5/5/2021 Note:may include bugs and missing data [see original data here for most accurate exposure areas](https://www.nshealth.ca/covid-exposures?title=&field_covid_exposure_zone_value=All)</th>
     <th>How it was done</th>
